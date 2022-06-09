@@ -9,6 +9,7 @@ lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+e-fish-dc4d6-firebase-adminsdk-7mvh7-69a7c3ca93.json
 
 # Runtime data
 pids
@@ -128,5 +129,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-e-fish-dc4d6-firebase-adminsdk-7mvh7-69a7c3ca93.json
